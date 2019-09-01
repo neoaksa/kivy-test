@@ -1,0 +1,89 @@
+{
+  "build": "h63225fd_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "jpeg >=9c,<10a",
+    "libpng >=1.6.35,<1.7.0a0",
+    "libtiff >=4.0.9,<5.0a0",
+    "sdl2 2.0.*",
+    "vc >=14,<15.0a0",
+    "zlib >=1.2.11,<1.3.0a0"
+  ],
+  "extracted_package_dir": "d:\\Anaconda3\\pkgs\\sdl2_image-2.0.5-h63225fd_0",
+  "features": "",
+  "files": [
+    "Library/bin/SDL2_image.dll",
+    "Library/include/SDL2/SDL_image.h",
+    "Library/include/SDL2/miniz.h",
+    "Library/include/SDL2/nanosvg.h",
+    "Library/include/SDL2/nanosvgrast.h",
+    "Library/lib/SDL2_image.lib",
+    ".nonadmin"
+  ],
+  "fn": "sdl2_image-2.0.5-h63225fd_0.tar.bz2",
+  "license": "ZLIB",
+  "link": {
+    "source": "d:\\Anaconda3\\pkgs\\sdl2_image-2.0.5-h63225fd_0",
+    "type": 1
+  },
+  "md5": "e079d832c260b09e6621116453233e62",
+  "name": "sdl2_image",
+  "package_tarball_full_path": "d:\\Anaconda3\\pkgs\\sdl2_image-2.0.5-h63225fd_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/SDL2_image.dll",
+        "path_type": "hardlink",
+        "sha256": "1d930f63d1284dc8ef735c850dd59832a61d54de08946657b049c4056e4f822f",
+        "sha256_in_prefix": "1d930f63d1284dc8ef735c850dd59832a61d54de08946657b049c4056e4f822f",
+        "size_in_bytes": 489472
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_image.h",
+        "path_type": "hardlink",
+        "sha256": "180792a5b429f891d7af256c526edf4a4e82118bc778ddeff9dbc93485028009",
+        "sha256_in_prefix": "180792a5b429f891d7af256c526edf4a4e82118bc778ddeff9dbc93485028009",
+        "size_in_bytes": 6820
+      },
+      {
+        "_path": "Library/include/SDL2/miniz.h",
+        "path_type": "hardlink",
+        "sha256": "1efed4ca8576b883bef72662fee6bbd15e704eb179d67cb7832bde451cea7580",
+        "sha256_in_prefix": "1efed4ca8576b883bef72662fee6bbd15e704eb179d67cb7832bde451cea7580",
+        "size_in_bytes": 227537
+      },
+      {
+        "_path": "Library/include/SDL2/nanosvg.h",
+        "path_type": "hardlink",
+        "sha256": "2757f22782ff63f0e94a184c2068671fc530663df3b6616293edbec870b32a07",
+        "sha256_in_prefix": "2757f22782ff63f0e94a184c2068671fc530663df3b6616293edbec870b32a07",
+        "size_in_bytes": 80039
+      },
+      {
+        "_path": "Library/include/SDL2/nanosvgrast.h",
+        "path_type": "hardlink",
+        "sha256": "0cd72cdc1f08eab33136132c64b0a99dd106249854bb1460737802077cb564d4",
+        "sha256_in_prefix": "0cd72cdc1f08eab33136132c64b0a99dd106249854bb1460737802077cb564d4",
+        "size_in_bytes": 38122
+      },
+      {
+        "_path": "Library/lib/SDL2_image.lib",
+        "path_type": "hardlink",
+        "sha256": "1b87dbb9153296a3690fb2d8692119d61f70d233adc24d9400b53a93f3778300",
+        "sha256_in_prefix": "1b87dbb9153296a3690fb2d8692119d61f70d233adc24d9400b53a93f3778300",
+        "size_in_bytes": 10120
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "47e66942593cbfb096e85877384dffa17dde69f59f4e90e2d152c9746f7f9d34",
+  "size": 310028,
+  "subdir": "win-64",
+  "timestamp": 1562096857705,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/sdl2_image-2.0.5-h63225fd_0.tar.bz2",
+  "version": "2.0.5"
+}

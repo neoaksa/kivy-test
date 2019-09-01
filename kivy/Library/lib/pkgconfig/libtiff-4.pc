@@ -1,0 +1,11 @@
+prefix=d:/Anaconda3/envs/kivy/Library
+exec_prefix=d:/Anaconda3/envs/kivy/Library
+libdir=d:/Anaconda3/envs/kivy/Library/lib
+includedir=d:/Anaconda3/envs/kivy/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.0.10
+Libs: -Ld:/Anaconda3/envs/kivy/Library/lib -ltiff
+Libs.private: 
+Cflags: -Id:/Anaconda3/envs/kivy/Library/include

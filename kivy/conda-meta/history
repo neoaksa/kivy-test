@@ -1,0 +1,45 @@
+==> 2019-09-01 13:31:00 <==
+# cmd: d:\Anaconda3\Scripts\conda-script.py create --name kivy python=3.7
+# conda version: 4.7.10
++defaults::ca-certificates-2019.5.15-1
++defaults::certifi-2019.6.16-py37_1
++defaults::openssl-1.1.1c-he774522_1
++defaults::pip-19.2.2-py37_0
++defaults::python-3.7.4-h5263a28_0
++defaults::setuptools-41.0.1-py37_0
++defaults::sqlite-3.29.0-he774522_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.15.26706-h3a45250_4
++defaults::wheel-0.33.4-py37_0
++defaults::wincertstore-0.2-py37_0
+# update specs: ['python=3.7']
+==> 2019-09-01 13:33:07 <==
+# cmd: d:\Anaconda3\Scripts\conda-script.py install kivy -c conda-forge
+# conda version: 4.7.10
+-defaults::ca-certificates-2019.5.15-1
+-defaults::certifi-2019.6.16-py37_1
+-defaults::openssl-1.1.1c-he774522_1
++conda-forge::ca-certificates-2019.6.16-hecc5488_0
++conda-forge::certifi-2019.6.16-py37_1
++conda-forge::docutils-0.15.2-py37_0
++conda-forge::freetype-2.10.0-h563cfd7_1
++conda-forge::glew-2.0.0-he025d50_1002
++conda-forge::jpeg-9c-hfa6e2cd_1001
++conda-forge::kivy-1.11.1-py37hbc14df2_0
++conda-forge::libpng-1.6.37-h7602738_0
++conda-forge::libtiff-4.0.10-h6512ee2_1003
++conda-forge::lz4-c-1.8.3-he025d50_1001
++conda-forge::olefile-0.46-py_0
++conda-forge::openssl-1.1.1c-hfa6e2cd_0
++conda-forge::pillow-6.1.0-py37h643dfcc_1
++conda-forge::pygments-2.4.2-py_0
++conda-forge::sdl2-2.0.10-h6538335_0
++conda-forge::sdl2_image-2.0.5-h63225fd_0
++conda-forge::sdl2_mixer-2.0.4-h6538335_0
++conda-forge::sdl2_ttf-2.0.15-h4636d2b_0
++conda-forge::smpeg2-2.0.0-h6538335_1
++conda-forge::tk-8.6.9-hfa6e2cd_1002
++conda-forge::xz-5.2.4-h2fa13f4_1001
++conda-forge::zlib-1.2.11-h2fa13f4_1005
++conda-forge::zstd-1.4.0-hd8a0e53_0
+# update specs: ['kivy']

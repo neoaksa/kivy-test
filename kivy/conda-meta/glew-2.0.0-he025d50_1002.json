@@ -1,0 +1,142 @@
+{
+  "build": "he025d50_1002",
+  "build_number": 1002,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14,<15.0a0"
+  ],
+  "extracted_package_dir": "d:\\Anaconda3\\pkgs\\glew-2.0.0-he025d50_1002",
+  "features": "",
+  "files": [
+    "Library/bin/glew32.dll",
+    "Library/bin/glewinfo.exe",
+    "Library/bin/visualinfo.exe",
+    "Library/include/GL/glew.h",
+    "Library/include/GL/glxew.h",
+    "Library/include/GL/wglew.h",
+    "Library/lib/cmake/glew/CopyImportedTargetProperties.cmake",
+    "Library/lib/cmake/glew/glew-config.cmake",
+    "Library/lib/cmake/glew/glew-targets-release.cmake",
+    "Library/lib/cmake/glew/glew-targets.cmake",
+    "Library/lib/glew32.lib",
+    "Library/lib/libglew32.lib",
+    "Library/lib/pkgconfig/glew.pc",
+    ".nonadmin"
+  ],
+  "fn": "glew-2.0.0-he025d50_1002.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "d:\\Anaconda3\\pkgs\\glew-2.0.0-he025d50_1002",
+    "type": 1
+  },
+  "md5": "77794f53d8cfe7a05b75e3303a261841",
+  "name": "glew",
+  "package_tarball_full_path": "d:\\Anaconda3\\pkgs\\glew-2.0.0-he025d50_1002.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/glew32.dll",
+        "path_type": "hardlink",
+        "sha256": "f8dffb15c9dfa51cb72e7ad5ada25d4618a0eea9ca8777480d0689f48f8ae1f4",
+        "sha256_in_prefix": "f8dffb15c9dfa51cb72e7ad5ada25d4618a0eea9ca8777480d0689f48f8ae1f4",
+        "size_in_bytes": 392704
+      },
+      {
+        "_path": "Library/bin/glewinfo.exe",
+        "path_type": "hardlink",
+        "sha256": "992adf5d5b217865eb3f057332b7b4cd6f18760551db15fc898a441a7c05dce8",
+        "sha256_in_prefix": "992adf5d5b217865eb3f057332b7b4cd6f18760551db15fc898a441a7c05dce8",
+        "size_in_bytes": 368640
+      },
+      {
+        "_path": "Library/bin/visualinfo.exe",
+        "path_type": "hardlink",
+        "sha256": "bb29a1e6d110a8b77b239da5364aef364e75e6633388736e92437d9913fd19f7",
+        "sha256_in_prefix": "bb29a1e6d110a8b77b239da5364aef364e75e6633388736e92437d9913fd19f7",
+        "size_in_bytes": 30208
+      },
+      {
+        "_path": "Library/include/GL/glew.h",
+        "path_type": "hardlink",
+        "sha256": "16dda61fed776fcbc656955d408305d8f4d600acf932ffeb00a53e053699eccb",
+        "sha256_in_prefix": "16dda61fed776fcbc656955d408305d8f4d600acf932ffeb00a53e053699eccb",
+        "size_in_bytes": 1058609
+      },
+      {
+        "_path": "Library/include/GL/glxew.h",
+        "path_type": "hardlink",
+        "sha256": "b366adbe212c25af32ad6a4bb36dd5ca2ebb3cca09c7dec154cdf222f0160a1b",
+        "sha256_in_prefix": "b366adbe212c25af32ad6a4bb36dd5ca2ebb3cca09c7dec154cdf222f0160a1b",
+        "size_in_bytes": 74992
+      },
+      {
+        "_path": "Library/include/GL/wglew.h",
+        "path_type": "hardlink",
+        "sha256": "fc8bc231271ce5f8c6d488d0080d14ee635f858df0793252db0a045530ccd27e",
+        "sha256_in_prefix": "fc8bc231271ce5f8c6d488d0080d14ee635f858df0793252db0a045530ccd27e",
+        "size_in_bytes": 64124
+      },
+      {
+        "_path": "Library/lib/cmake/glew/CopyImportedTargetProperties.cmake",
+        "path_type": "hardlink",
+        "sha256": "b7c651036918a5c5bbbc94f9b144f534fc24d7bb4b9f00f02d2440da5f733c44",
+        "sha256_in_prefix": "b7c651036918a5c5bbbc94f9b144f534fc24d7bb4b9f00f02d2440da5f733c44",
+        "size_in_bytes": 3189
+      },
+      {
+        "_path": "Library/lib/cmake/glew/glew-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "fcd20fed62c08d0634200fa9214c389951d9dfdf2648625b1842c9800e5a8e23",
+        "sha256_in_prefix": "fcd20fed62c08d0634200fa9214c389951d9dfdf2648625b1842c9800e5a8e23",
+        "size_in_bytes": 2286
+      },
+      {
+        "_path": "Library/lib/cmake/glew/glew-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "4702e6afd8ed35befd314cf520fa46900f79db1baab8df41a01064ee4f93af5c",
+        "sha256_in_prefix": "4702e6afd8ed35befd314cf520fa46900f79db1baab8df41a01064ee4f93af5c",
+        "size_in_bytes": 1456
+      },
+      {
+        "_path": "Library/lib/cmake/glew/glew-targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "e83a62d7e603d109d406b28547091b1762a8da15415f170c8880c316848f696d",
+        "sha256_in_prefix": "e83a62d7e603d109d406b28547091b1762a8da15415f170c8880c316848f696d",
+        "size_in_bytes": 3585
+      },
+      {
+        "_path": "Library/lib/glew32.lib",
+        "path_type": "hardlink",
+        "sha256": "33cc367dfe5557b4360f8ce06b82600f72d5b3a2a4da4d6f0e903591a8ae1cd6",
+        "sha256_in_prefix": "33cc367dfe5557b4360f8ce06b82600f72d5b3a2a4da4d6f0e903591a8ae1cd6",
+        "size_in_bytes": 621984
+      },
+      {
+        "_path": "Library/lib/libglew32.lib",
+        "path_type": "hardlink",
+        "sha256": "3720e602e5a7db0f2939432448eb61a0811a4ad5aaa9d29aa1e61bdf1e3fbccc",
+        "sha256_in_prefix": "3720e602e5a7db0f2939432448eb61a0811a4ad5aaa9d29aa1e61bdf1e3fbccc",
+        "size_in_bytes": 1858354
+      },
+      {
+        "_path": "Library/lib/pkgconfig/glew.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/bld/glew_1546253264093/_h_env",
+        "sha256": "5ba17510ccb09b370f5bafe891b6405d8d0b263eb2ca1460c7f6f45340c3158e",
+        "sha256_in_prefix": "2a6908bc2ef8a80dde948cb1af40b2714d6cb725f36553636f14faecc711ba9e",
+        "size_in_bytes": 306
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "220aa7121954445cd585850e7da17675e3ffe564452233cc16eef2daffb2cafe",
+  "size": 738972,
+  "subdir": "win-64",
+  "timestamp": 1546253313771,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/glew-2.0.0-he025d50_1002.tar.bz2",
+  "version": "2.0.0"
+}

@@ -1,0 +1,13 @@
+prefix=d:/Anaconda3/envs/kivy/Library
+exec_prefix=d:/Anaconda3/envs/kivy/Library
+libdir=d:/Anaconda3/envs/kivy/Library/lib
+sharedlibdir=d:/Anaconda3/envs/kivy/Library/lib
+includedir=d:/Anaconda3/envs/kivy/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
