@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "d:\\Anaconda3\\envs\\kivy\\python.exe"
+    "python.pythonPath": "d:\\Anaconda3\\envs\\kivy\\python.exe",
+    "git.ignoreLimitWarning": true
 }
